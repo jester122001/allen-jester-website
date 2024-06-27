@@ -1,0 +1,31 @@
+.style5 {
+    background-color: blue;
+    height: 120px;
+    width: 1400px;
+    text-align: center;
+    color: aliceblue;
+  }
+  .style1 {
+      background-color: lightpink;
+      width: 1500px;
+      height: 700px;
+  }
+
+  .btn {
+    background-color: black;
+    color:yellow;
+    padding: 50px 50px;
+    font-size: 80px;
+    cursor: pointer;
+    margin: 100px;
+    max-height: max-content;
+  }
+  
+  .fa {
+    background-color: white;
+    font-size: larger;
+    height: 30px;
+    width: 50px;
+    margin-top: 50px;
+  } 
+  

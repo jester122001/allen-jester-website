@@ -1,0 +1,32 @@
+.style5 {
+    background-color: blue;
+    height: 120px;
+    width: 1400px;
+    text-align: center;
+    color: aliceblue;
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px  ;
+    background-color: #2196f3;
+    
+    gap: 5px 5px;
+}
+.grid-item1 {
+    background-color: rgba(255,255,255,0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+img {
+    width:240px;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 500px;
+   
+}
+.h1 {
+    text-align: center;
+    
+}

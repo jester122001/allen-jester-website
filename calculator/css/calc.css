@@ -1,0 +1,96 @@
+.flex-container {
+    background-color: burlywood;
+    height: 500px;
+    width: 320px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 450px;
+    margin-top: 50px;
+   
+}
+
+.flex-container7 {
+    background-color: rgb(71, 71, 47);
+    height: 290px;
+    width: 273px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 21px;
+    margin-top: 50px;
+    margin-right: 5px;
+   
+}
+
+.flex-container5 {
+    background-color: rgb(71, 71, 47);
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 12px;
+    margin-right: 30px;
+
+}
+
+
+
+.flex-container6>input{
+   
+    justify-content: center;
+    align-items: center;
+    margin-left: 75px;
+    height: 30px;
+    margin-top: 20px;
+
+}
+
+.flex-container1>button {
+    background-color: lemonchiffon;
+    height: 60px;
+    width: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 12px;
+    margin-top: 8px;
+    font-size: large;
+    
+}
+
+.flex-container2>button {
+    background-color: lemonchiffon;
+    height: 60px;
+    width: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 12px;
+    margin-top: 12px;
+    font-size: large;
+    
+}
+
+.flex-container3>button {
+    background-color: lemonchiffon;
+    height: 60px;
+    width: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 12px;
+    margin-top: 12px;
+    font-size: large;
+    
+}
+
+.flex-container4>button {
+    background-color: lemonchiffon;
+    height: 60px;
+    width: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 12px;
+    margin-top: 12px;
+     font-size: large;
+    
+}
+
+

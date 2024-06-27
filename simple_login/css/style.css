@@ -1,0 +1,94 @@
+label {
+                font-size: 30px;
+                color: rgb(45, 45, 77);
+            }
+p {
+    color: red;
+}
+            button {
+                padding: 20px;
+                border: 5px solid black;
+                background-color: gray;
+            }
+
+            #userLabel{
+                background-color: yellow;
+            }
+
+            #passLabel{
+                background-color: aqua;
+            }
+
+            .labelStyle{
+                background-color: rgb(122, 113, 94);
+            }
+
+            input{
+                background-color: rgb(143, 143, 158);
+                border: 5px solid black;
+                padding: 2px;
+            }
+
+            body{
+                background-color: burlywood;
+                border: 20px solid black;
+            }
+
+            .Forgot:link {
+                font-size: 20px;
+                color: blue;
+                font-style: none;
+            }
+
+            .Forgot:hover {
+                font-size: 25px;
+                color: red;
+                background-color: yellow;
+            }
+
+            .Forgot:visited {
+                font-size: 10px;
+                color: rgb(122, 134, 134);
+                background-color: black;
+
+            }
+
+            .Forgot:active {
+                font-size: 20px;
+                color: aqua;
+                background-color: black;
+            }
+
+            button:link {
+                font-size: 30px;
+                color: blue;
+                font-style: none;
+            }
+
+            button:hover {
+                font-size: 25px;
+                color: gray;
+                background-color:black;
+            }
+
+            button:visited {
+                font-size: 20px;
+                color: rgb(122, 134, 134);
+                background-color: brown;
+
+            }
+
+            button:active {
+                font-size: 50px;
+                color: aqua;
+                background-color: black;
+            }
+
+            #error {
+                color: red;
+                font-size: 20px;
+            }
+
+            
+
+
